@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# Nuxt / frontend
+front/.nuxt/
+front/dist/
+
+# Backend
+backend/dist/
+backend/node_modules/
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-shm
+prisma/dev.db-wal
+
+# Docker
+db_data/
+*.env
+*.log
